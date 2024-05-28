@@ -4,5 +4,7 @@ My name is Gregory and I just graduated from IEK ΔELTA 360. During my studies, 
 
 ## Skills  &  Experience
 *📸 Adobe Photoshop.
+
 *💻 HTML, CSS, SQL and PHP.
+
 *📑 C++ and Python.
