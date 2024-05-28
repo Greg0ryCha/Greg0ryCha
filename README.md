@@ -8,3 +8,5 @@ My name is Gregory and I just graduated from IEK ΔELTA 360. During my studies, 
 *💻 HTML, CSS, SQL and PHP.
 
 *📑 C++ and Python.
+
+## Example Of My Work
