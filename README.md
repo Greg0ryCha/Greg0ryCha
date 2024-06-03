@@ -13,3 +13,4 @@ My name is Gregory and I just graduated from IEK ΔELTA 360. During my studies, 
 
 ![Screenshot 2024-05-28 204418](https://github.com/Greg0ryCha/Greg0ryCha/assets/170478877/436780bd-0e0b-4d1d-b76d-741ec142da47)
 ![Screenshot 2024-05-28 204146](https://github.com/Greg0ryCha/Greg0ryCha/assets/170478877/bf0f6820-977f-40a4-94de-a0bc2e34e7aa)
+![Screenshot 2024-06-03 115143](https://github.com/Greg0ryCha/Greg0ryCha/assets/170478877/c3dc4369-ffd1-4d10-aa9d-3ac20ebf2ba1)
