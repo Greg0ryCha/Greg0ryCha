@@ -3,7 +3,8 @@
 My name is Gregory and I just graduated from IEK ΔELTA 360. During my studies, I gained strong knowledge and skills in Web Design & Development. I participated in various projects and seminars that allowed me to develop skills such as Graphic Design,Backend Development and Web Performance Optimization.
 
 ## Skills  &  Experience
-🌐 WordPress και Elementor
+
+🌐 WordPress & Elementor
 
 📸 Adobe Photoshop
 
@@ -16,6 +17,7 @@ My name is Gregory and I just graduated from IEK ΔELTA 360. During my studies, 
 
 https://dev-archiflo.pantheonsite.io/
 
+https://dev-activezone.pantheonsite.io/
 
 
 ![Screenshot 2024-05-28 204146](https://github.com/Greg0ryCha/Greg0ryCha/assets/170478877/bf0f6820-977f-40a4-94de-a0bc2e34e7aa)
